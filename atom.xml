@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Keep moving...]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-11-23T13:51:26.237Z</updated>
+  <updated>2015-11-23T13:52:33.304Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,12 +15,12 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[使用RxJava提高用户体验]]></title>
+    <title><![CDATA[使用RxJava提高用户体验 - Improving UX with RxJava]]></title>
     <link href="http://yoursite.com/2015/11/23/%E4%BD%BF%E7%94%A8RxJava%E6%8F%90%E9%AB%98%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C/"/>
     <id>http://yoursite.com/2015/11/23/使用RxJava提高用户体验/</id>
     <published>2015-11-23T13:45:21.000Z</published>
-    <updated>2015-11-23T13:51:26.237Z</updated>
-    <content type="html"><![CDATA[<h1 id="Improving_UX_with_RxJava">Improving UX with RxJava</h1><h1 id="使用RxJava提高用户体验">使用RxJava提高用户体验</h1><p>原文地址：<a href="https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.z116013ro" target="_blank" rel="external">https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.z116013ro</a><br>原文作者：<a href="https://medium.com/@diolor" target="_blank" rel="external">Dionysis Lorentzos</a></p>
+    <updated>2015-11-23T13:52:33.304Z</updated>
+    <content type="html"><![CDATA[<p>原文地址：<a href="https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.z116013ro" target="_blank" rel="external">https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.z116013ro</a><br>原文作者：<a href="https://medium.com/@diolor" target="_blank" rel="external">Dionysis Lorentzos</a></p>
 <p>In a perfect mobile world users would never lose connectivity, servers will never return errors and bacon would have been low fat.<br>在一个完美的移动世界中，用户永远不会掉线，服务器永远不会返回错误码，培根总是低脂肪的。</p>
 <p><img src="https://d262ilb51hltx0.cloudfront.net/max/600/1*kCcW9ytw2jQwYqmvnhGjuw.gif" alt=""><br><a href="https://dribbble.com/shots/2004585-Search-animation" target="_blank" rel="external">Search list animation</a> by <a href="https://dribbble.com/daleypmaasz" target="_blank" rel="external">Daley P Maasz</a> from Dribbble.<br><a href="https://dribbble.com/shots/2004585-Search-animation" target="_blank" rel="external">搜索列表动画</a>来自Dribbble，作者<a href="https://dribbble.com/daleypmaasz" target="_blank" rel="external">Daley P Maasz</a>。</p>
 <p>Building a great app experience is usually a bliss for a user but pain for the developer. Gone are the days that a user clicks a button, the UI gets blocked and you wait for a backend response. It’s just <strong>frustrating</strong>.<br>做一个极致的应用用户体验是一件让用户高兴的事情，但同时也是一件让开发者头疼的事情。试想那些情景，当用户点击一个按钮，界面卡死，你只能等待后台的网络回应。那真是令人沮丧。</p>
@@ -83,7 +83,7 @@
 <p>The users will never notice, that’s a good design. ;)<br>你的用户将永远不会注意到这些细节，这个设计棒极了。;)</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<h1 id="Improving_UX_with_RxJava">Improving UX with RxJava</h1><h1 id="使用RxJava提高用户体验">使用RxJava提高用户体验</h1><p>原文地址：<a href="https://medium.co]]>
+    <![CDATA[<p>原文地址：<a href="https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.z116013ro" target="_blank" rel="external">https://medium.]]>
     </summary>
     
       <category term="Android" scheme="http://yoursite.com/tags/Android/"/>
